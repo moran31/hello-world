@@ -7,3 +7,6 @@ DEV - TEST - CERT - PROD - Is the way we test our applications, we move from DEV
 end-user to experience.
 
 Here is a brief commit, or change to my read me file.
+
+
+I am going to enter this then remove it later because there was an issue with this :)
